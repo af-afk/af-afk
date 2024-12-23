@@ -34,8 +34,8 @@ overdue for another entry.
 
 ## Friends
 
-I collaborate closely with [Shahmeer Chaudhry](https://x.com/shahmeerx), [Ivan Seara
-Nunes](https://x.com/IvanSN_), and Erik (cibo6).
+I collaborate closely with [Shahmeer Chaudhry](https://x.com/shahmeerx) and [Ivan Seara
+Nunes](https://x.com/IvanSN_).
 
 ## Contact
 
