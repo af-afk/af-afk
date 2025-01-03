@@ -32,6 +32,23 @@ Most of my work is available at @fluidity-money. I also work on [Stylus
 Saturdays](https://stylussaturdays.substack.com/), though at the time of writing, this is
 overdue for another entry.
 
+## Talks/organisations/writings
+
+I co-founded and am the CTO of [Fluidity Labs](https://fluiditylabs.io) (this is
+intentionally a low code site for the record), which builds
+[Superposition](https://superposition.so) (and its plethora of apps) and [Fluidity
+Money](https://fluidity.money). I founded [Adelaide Functional
+Programming](https://www.meetup.com/en-AU/adelaide-functional-programming-meetup-group/),
+though I've taken a step back from ongoing management since November 2024. I started
+[Stylus Saturdays](https://stylussaturdays.substack.com/), a blog focusing on developments
+in the Arbitrum Stylus ecosystem. I founded ages ago [Iomete Labs](https://iometelabs.io)
+(Esperanto word for "small"), a software development company which built software for
+local Adelaide companies, and, at the time, explained ZK concepts with a blog/newsletter
+format.
+
+### Talks in order of appearance
+
+
 ## Friends
 
 I collaborate closely with [Shahmeer Chaudhry](https://x.com/shahmeerx) and [Ivan Seara
