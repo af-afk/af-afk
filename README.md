@@ -26,16 +26,10 @@ head. The following is provided to reflect my recent experience.
 2. OpenBSD
 3. MacOS
 
-## Open source projects
-
-Most of my work is available at @fluidity-money. I also work on [Stylus
-Saturdays](https://stylussaturdays.substack.com/), though at the time of writing, this is
-overdue for another entry.
-
 ## Talks/organisations/writings
 
 I co-founded and am the CTO of [Fluidity Labs](https://fluiditylabs.io) (this is
-intentionally a low code site for the record), which builds
+intentionally a low-code site for the record), which builds
 [Superposition](https://superposition.so) (and its plethora of apps) and [Fluidity
 Money](https://fluidity.money). I founded [Adelaide Functional
 Programming](https://www.meetup.com/en-AU/adelaide-functional-programming-meetup-group/),
@@ -44,15 +38,22 @@ though I've taken a step back from ongoing management since November 2024. I sta
 in the Arbitrum Stylus ecosystem. I founded ages ago [Iomete Labs](https://iometelabs.io)
 (Esperanto word for "small"), a software development company which built software for
 local Adelaide companies, and, at the time, explained ZK concepts with a blog/newsletter
-format.
+format. For each of these orgs I've given talks, some of which can be found on the
+internet around places. These include how to build orderbooks with functional programming,
+how to use genetic programming with combinators to solve optimisation problems, and most
+recently how to build a lending protocol stablecoin. I've written some insane ramblings at
+[Mirror](https://mirror.xyz/bayge.eth), including how to implement a DAO based on
+futarchy/prediction market concepts.
 
-### Talks in order of appearance
-
+Most of these organisations reflect my "code is free speech" philosophy, and are as such
+open source and MIT licensed (with the exception of Fluidity's monorepo app). Fluidity
+Labs lives at [its Github](https://github.com/fluidity-money), and it contains the bulk of
+my work.
 
 ## Friends
 
-I collaborate closely with [Shahmeer Chaudhry](https://x.com/shahmeerx) and [Ivan Seara
-Nunes](https://x.com/IvanSN_).
+I collaborate closely with [Shahmeer Chaudhry](https://x.com/shahmeerx), [Ivan Seara
+Nunes](https://x.com/IvanSN_), and my longtime Iomete Labs collaborator, Erik/cibo6.
 
 ## Contact
 
