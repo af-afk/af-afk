@@ -30,7 +30,7 @@
 	jgs ':::..      .'
 	     `""-----""`
 
-^ A rose for oyu.
+^ A flower for you.
 
 [Bayge on X](https://x.com/baygeeth)
 
