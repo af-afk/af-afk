@@ -6,11 +6,11 @@ I work on:
 
 - [Stylus Saturdays](https://stylus-saturdays.com), writing a Stylus-centric newsletter and dApps.
 
-- [Markov Geist](https://github.com/markovgeist), building a emergent systems, commercialising various projects.
+- [Markov Geist](https://github.com/markovgeist), building emergent systems, commercialising various projects.
 
-- [Rust for Smart Contracts](https://rust-for-smart-contracts.com), an open source book on writing smart contracts in Rust for Arbitrum, Solana, and NEAR.
+- [Rust for Smart Contracts](https://rust-for-smart-contracts.com), an open source book introducing smart contract programming with Rust for Arbitrum, Solana, and NEAR.
 
-- Organising hackathons and giving talks. My most recent was an on-chain competition to optimise a bespoke Proof of Work algorithm for finding chess check situations
+- Organising hackathons and giving talks. My most recent was an on-chain competition to optimise a bespoke Proof of Work algorithm for finding chess check solutions.
 
 I used to develop most recently:
 
