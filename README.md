@@ -7,5 +7,3 @@
 - [Markov Geist](https://code.markovgeist.org), building emergent systems, commercialising various projects.
 
 - [Rust for Smart Contracts](https://rust-for-smart-contracts.com), an open source book introducing smart contract programming with Rust for Arbitrum, Solana, and NEAR.
-
-- [Stylus Saturdays](https://stylus-saturdays.com), a blog covering the Stylus ecosystem and performing community evangelism.
